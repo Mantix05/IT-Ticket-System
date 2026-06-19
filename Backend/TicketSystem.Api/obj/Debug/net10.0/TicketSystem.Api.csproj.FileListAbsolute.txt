@@ -35,3 +35,4 @@ C:\Users\Nils\Documents\IT-Ticket-System\Backend\TicketSystem.Api\obj\Debug\net1
 C:\Users\Nils\Documents\IT-Ticket-System\Backend\TicketSystem.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Nils\Documents\IT-Ticket-System\Backend\TicketSystem.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Nils\Documents\IT-Ticket-System\Backend\TicketSystem.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nils\Documents\IT-Ticket-System\Backend\TicketSystem.Api\bin\Debug\net10.0\tickets.json
