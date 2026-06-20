@@ -1,1 +1,12 @@
-<p>ticket-dashboard works!</p>
+<h2>Meine IT-Tickets</h2>
+
+<ul>
+  @for (ticket of tickets; track ticket.id) {
+    <li>
+      <strong>{{ ticket.title }}</strong> (Status: {{ ticket.status }})
+      <p>{{ ticket.description }}</p>
+    </li>
+  } @empty {
+    <li>Lade Tickets oder es sind noch keine vorhanden...</li>
+  }
+</ul>
